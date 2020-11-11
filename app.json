@@ -1,0 +1,12 @@
+{
+  "name": "capones-bones",
+  "displayName": "capones-bones",
+  "expo": {
+    "name": "capones-bones",
+    "slug": "capones-bones",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
